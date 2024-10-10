@@ -23,7 +23,10 @@ h * quaternion * exp(x) >= 1
 YES !!! We finished to write 1 which seems like 1/2 !!!!! So, why is this possible ? It seems that this will be a formula
 that we will have to use later !
 Then, what will be our next job ? Equations are done ! Then, will we have to use models ?
-At the moment, currently, exp(x) is impossible (stuffs from fatos gurbuz or gulten er)!
+At the moment, currently, exp(x) is impossible (stuffs from fatos gurbuz or gulten er)!. And in a latest repository before this,
+we formulated that we don't have to write some random functions even if their are complex forms. So, now, as we succeeded
+to test them, let's write a very long function or equation !
+dirac_delta * ((differntial / Pi) + i* .....
 
 
 
