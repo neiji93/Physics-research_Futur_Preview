@@ -33,6 +33,13 @@ many things wrong !
 ...
 So, now, we have statistics because ..... the first wrong forula is...
 
+At the moment, it will be best to have an overview and a photo of a real physical event that occurs in earth or we can create
+some formulas of an upcoming visible event. Let's say a lightning. Now, we have some elements:
+- dirac_delta * ((differntial / Pi) + i* .....
+- lightings
+- statistics from 1st function
+  
+
 
 
 
