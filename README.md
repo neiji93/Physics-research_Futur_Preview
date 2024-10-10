@@ -27,6 +27,11 @@ At the moment, currently, exp(x) is impossible (stuffs from fatos gurbuz or gult
 we formulated that we don't have to write some random functions even if their are complex forms. So, now, as we succeeded
 to test them, let's write a very long function or equation !
 dirac_delta * ((differntial / Pi) + i* .....
+This function, especially the first term which can relate Uvs can be true if we find something wrong elsewhere ! Let's find
+many things wrong !
+(differntial / h) is wrong because we cannot use it with liquid metals
+...
+So, now, we have statistics because ..... the first wrong forula is...
 
 
 
