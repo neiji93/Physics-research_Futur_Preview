@@ -23,6 +23,7 @@ h * quaternion * exp(x) >= 1
 YES !!! We finished to write 1 which seems like 1/2 !!!!! So, why is this possible ? It seems that this will be a formula
 that we will have to use later !
 Then, what will be our next job ? Equations are done ! Then, will we have to use models ?
+At the moment, currently, exp(x) is impossible (stuffs from fatos gurbuz or gulten er)!
 
 
 
