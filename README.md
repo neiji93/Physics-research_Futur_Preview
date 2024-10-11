@@ -44,6 +44,18 @@ It means a relationship between  log(x)*Pi * dirac_delta * ((differential / Pi) 
 Because Pi can be described as one or maybe many distributed models. According to the work of Gulten Er and Fatos Gurbuz, this distributed model
 can have a circular momentum (il peut tourner sur lui meme).  GREAT ! We succeeded to link the liquid metals with the conductors !!!
 
+////////////////////////HLSL SOURCE FILE FROM A Computer graphics repository ////////////////////////////////////////////:
+////////// LINK : https://github.com/neiji93/Graphics-Byond-cell-shading-potorealism/blob/34fca723aba163e1fefc55192d67d3a74b7675e7/Graphics/NuclearPhysicsReality/LiquidMetalsToMathematics.hlsl
+
+It seems that now we have to have water as the thrid component of the conductor.
+Strange !!!!!!! If mankind can see the futur, murders will be stopped all !
+I hope so. Nevertheless, I have to continue to work.
+
+
+
+
+
+
 
 
 
