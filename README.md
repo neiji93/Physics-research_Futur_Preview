@@ -39,7 +39,10 @@ some formulas of an upcoming visible event. Let's say a lightning. Now, we have 
 - lightings
 - statistics from 1st function
   
-
+So, what will happen in a conductor where lightnings occurs ? We have to have a relationship between liquid metals and the function above.
+It means a relationship between  log(x)*Pi * dirac_delta * ((differential / Pi) + i * ....
+Because Pi can be described as one or maybe many distributed models. According to the work of Gulten Er and Fatos Gurbuz, this distributed model
+can have a circular momentum (il peut tourner sur lui meme).  GREAT ! We succeeded to link the liquid metals with the conductors !!!
 
 
 
